@@ -1,4 +1,4 @@
-# bot_rei
+# bot-Template
 python+herokuでdiscord botを動かすのに必要なファイルです。
 テンプレートとしてお使いください。
 ※バージョンなどの変更はご自身でお願いします
